@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FootballNews</string>
+    <string name="news_fragment">News Fragment</string>
+    <string name="schedule_fragment">Schedule Fragment</string>
+    <string name="rankings_fragment">Rankings Fragment</string>
+    <string name="Menu">Menu</string>
+    <string name="News">News</string>
+    <string name="Schedule">Lịch thi đấu</string>
+    <string name="Rankings">Bảng xếp hạng</string>
+</resources>
